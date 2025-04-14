@@ -2,6 +2,7 @@
 for practicing branching
 
 a second update to main
+line 5 is the worst, AI sux
 new branch
 Brayden Was here
 Nick was here
