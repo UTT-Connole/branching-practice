@@ -6,12 +6,9 @@ new branch
 Brayden Was here
 Nick was here
 Brycen was here and he's better than brayden.
-<<<<<<< HEAD
 ### (╯°□°)╯︵ ┻━┻ - kyleigh
-=======
 sebas was here
 
->>>>>>> origin/main
 
 update to main
 
